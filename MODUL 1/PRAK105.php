@@ -19,8 +19,8 @@
             }
             th {
                 background-color: red;
-                padding-top: 10px;
-                padding-bottom: 10px;
+                padding-top: 20px;
+                padding-bottom: 20px;
                 font-size: 25px;
             }
         </style>
