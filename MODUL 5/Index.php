@@ -36,7 +36,7 @@ foreach ($peminjaman_list as $pinjam) {
         
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #6d46ed 0%, #debaf0 100%); 
+            background: linear-gradient(135deg, #8ca0f4 0%, #896da5 100%); 
             min-height: 100vh;
             color: #333;
         }
